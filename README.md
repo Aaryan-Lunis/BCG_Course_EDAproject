@@ -86,8 +86,8 @@ The project involved the following key steps:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/bcg-genai-simulation.git
-   cd bcg-genai-simulation
+   git clone https://github.com/Aaryan-Lunis/bcg-genai-simulation.git
+   cd BCG_Course_EDAproject
    ```
 
 2. **Install dependencies**
