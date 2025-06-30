@@ -75,7 +75,7 @@ The project involved the following key steps:
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshot
 
 > ![image](https://github.com/user-attachments/assets/caa2cf24-7e5b-4029-ba1a-88b54d5cb5ec)
 
