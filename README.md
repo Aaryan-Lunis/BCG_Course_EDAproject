@@ -7,6 +7,7 @@ This project is part of a job simulation course offered by **BCG (Boston Consult
 
 ## 📌 Project Overview
 
+
 The project involved the following key steps:
 
 1. **Manual Data Extraction**
